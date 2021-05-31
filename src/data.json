@@ -1,0 +1,63 @@
+{"product":[{
+      "id": 1,
+      "title": "Bộ áo khoác LOPO",
+      "image": "https://i.imgur.com/hex8MNz.jpg",
+      "price": 290,
+      "size": ["XL", "XXL"]
+    },
+    {
+      "id": 2,
+      "title": "Bộ thu đông dài tay",
+      "image": "https://i.imgur.com/w4NcJUN.jpg",
+      "price": 190,
+      "size": ["S", "XL"]
+    },
+    {
+      "id": 3,
+      "title": "Bộ khủng long xám",
+      "image": "https://i.imgur.com/SaUgEXC.jpg",
+      "price": 160,
+      "size": ["S", "XXL"]
+    },
+    {
+      "id": 4,
+      "title": "Bộ đông đen số 7",
+      "image": "https://i.imgur.com/SV26mwJ.jpg",
+      "price": 120,
+      "size": ["XL", "M", "XXL"]
+    },
+    {
+      "id": 5,
+      "title": "Bộ thu đông xám",
+      "image": "https://i.imgur.com/8VEHJT8.jpg",
+      "price": 220,
+      "size": ["S", "XL", "M"]
+    },
+    {
+      "id": 6,
+      "title": "Bodysuit áo nâu dày",
+      "image": "https://i.imgur.com/HKqXoj8.jpg",
+      "price": 260,
+      "size": ["S", "M", "XXL"]
+    },
+    {
+      "id": 7,
+      "title": "Bodysuit áo kẻ sọc",
+      "image": "https://i.imgur.com/Zf49nK3.jpg",
+      "price": 300,
+      "size": ["XL", "M"]
+    },
+    {
+      "id": 8,
+      "title": "Bộ hè Wade 3",
+      "image": "https://i.imgur.com/9IC5EYB.jpg",
+      "price": 250,
+      "size": ["M", "XXL"]
+    },
+    {
+      "id": 9,
+      "title": "Bodysuit áo rời quần",
+      "image": "https://i.imgur.com/Vakfjap.jpg",
+      "price": 100,
+      "size": ["S", "XL", "M", "XXL"]
+    }]}
